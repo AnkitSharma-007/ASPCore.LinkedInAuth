@@ -1,0 +1,12 @@
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\obj\Debug\netcoreapp2.0\LinkdinAuth.csprojResolveAssemblyReference.cache
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\obj\Debug\netcoreapp2.0\LinkdinAuth.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\obj\Debug\netcoreapp2.0\LinkdinAuth.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\obj\Debug\netcoreapp2.0\LinkdinAuth.AssemblyInfo.cs
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\bin\Debug\netcoreapp2.0\LinkdinAuth.deps.json
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\bin\Debug\netcoreapp2.0\LinkdinAuth.runtimeconfig.json
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\bin\Debug\netcoreapp2.0\LinkdinAuth.runtimeconfig.dev.json
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\bin\Debug\netcoreapp2.0\LinkdinAuth.dll
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\bin\Debug\netcoreapp2.0\LinkdinAuth.pdb
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\obj\Debug\netcoreapp2.0\LinkdinAuth.dll
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\obj\Debug\netcoreapp2.0\LinkdinAuth.pdb
+C:\Users\ankit\source\repos\LinkdinAuth\LinkdinAuth\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
